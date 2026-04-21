@@ -1,12 +1,8 @@
 #include <Arduino.h>
-
+#include <dimManager.h>
 
 
 void setup() {
-    Serial.begin(9600);
-
-
-
 
 }
 
